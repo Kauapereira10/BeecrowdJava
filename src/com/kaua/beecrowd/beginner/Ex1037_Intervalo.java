@@ -3,7 +3,7 @@ package com.kaua.beecrowd.beginner;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Ex1036_Intervalo {
+public class Ex1037_Intervalo {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
