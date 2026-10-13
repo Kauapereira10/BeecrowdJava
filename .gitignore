@@ -1,6 +1,14 @@
 # Compiled class file
 *.class
 
+
+# Arquivos e pastas da IDE IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos compilados do Java
+out/
+
 # Log file
 *.log
 
