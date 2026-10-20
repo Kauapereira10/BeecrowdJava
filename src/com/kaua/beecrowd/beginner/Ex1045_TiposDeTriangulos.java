@@ -1,6 +1,8 @@
+package com.kaua.beecrowd.beginner;
+
 import java.util.Scanner;
 
-public class Main {
+public class Ex1045_TiposDeTriangulos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

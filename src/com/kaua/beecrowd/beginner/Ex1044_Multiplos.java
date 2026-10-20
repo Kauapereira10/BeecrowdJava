@@ -1,6 +1,7 @@
-import java.util.Scanner;
+package com.kaua.beecrowd.beginner;
 
-public class Main {
+import java.util.Scanner;
+public class Ex1044_Multiplos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
